@@ -1,3 +1,3 @@
 # Just fluttering around!
 
-Check my other repositories for my projects.
+Check my other repositories for the projects.
